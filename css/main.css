@@ -1710,7 +1710,7 @@ nav.main-menu ul.menu > li.mega-menu-item:hover > a {
 .second-footer .widget_nav_menu ul li.last-link { padding-bottom: 0; }
 .second-footer .widget_nav_menu ul li a { color: rgba(255, 255, 255, 0.8); }
 .menu-footer-quick-links li a i { font-size: 10px; padding-right: 10px; }
-.menu-footer-quick-links li a:hover { color: var(--base-white); }
+.menu-footer-quick-links li a:hover { color: var(--base-skin); }
 
 /*widget_social*/
 .second-footer .widget_social { padding: 12px 0 0; }

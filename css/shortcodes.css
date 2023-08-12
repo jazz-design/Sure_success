@@ -193,7 +193,7 @@
     margin-left: -302px;
 }
 .col-bg-img-two.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {
-    background-image: url(../images/bg-image/col-bgimage-2.png);
+    background-image: url("../images/test_img1.png");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;

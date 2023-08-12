@@ -1000,7 +1000,7 @@ ul.social-icons{
 .jaz-header-style-01 .top_bar_contact_item { height: 48px; line-height: 48px; padding-left: 0; padding-right: 35px; }
 .jaz-header-style-01 .top_bar_contact_item:last-child { padding-right: 0px; }
 .jaz-header-style-01 .top_bar_contact_item a { color: rgba(255, 255, 255, 1); }
-.jaz-header-style-01 .top_bar_contact_item .social-icons li a i { display: none; }
+.jaz-header-style-01 .top_bar_contact_item .social-icons li a i { padding-right:10px; }
 .jaz-header-style-01 .top_bar_contact_item ul.social-icons li { padding-left: 10px; padding-right: 10px; }
 .jaz-header-style-01 .top_bar_contact_item ul.social-icons li.jaz-social-instagram:before,
 .jaz-header-style-01 .top_bar_contact_item ul.social-icons li.jaz-social-facebook:before,

@@ -224,7 +224,7 @@
     background-size: cover;
 }
 .col-bg-img-seven.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {
-    background-image: url(../images/bg-image/col-bgimage-7.png);
+    background-image: url("../images/abt_img1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

@@ -390,14 +390,14 @@
     margin-right: -302px;
 }
 .col-bg-img-thirty-two.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {   
-    background-image: url(../images/bg-image/col-bgimage-32.png);
+    background-image: url("../images/vision.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: -302px;
 }
 .col-bg-img-thirty-three.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {   
-    background-image: url(../images/bg-image/col-bgimage-33.png);
+    background-image: url("../images/mission.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;

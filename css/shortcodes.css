@@ -341,14 +341,14 @@
     margin-right: -302px;
 }
 .col-bg-img-twenty-five.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {   
-    background-image: url(../images/bg-image/col-bgimage-25.png);
+    background-image: url("../images/study_canada1.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: -302px;
 }
 .col-bg-img-twenty-six.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {   
-    background-image: url(../images/bg-image/col-bgimage-26.png);
+    background-image: url("../images/study_canada2.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;

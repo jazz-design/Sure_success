@@ -306,7 +306,7 @@
     background-size: cover;
 }
 .col-bg-img-twenty.jaz-col-bgimage-yes > .jaz-col-wrapper-bg-layer {
-    background-image: url(../images/bg-image/col-bgimage-20.png);
+    background-image: url("../images/testimonial_img.png");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;

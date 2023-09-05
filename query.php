@@ -118,7 +118,7 @@
                                                 </ul>
                                             </li>
 																						
-                                            <li class="mega-menu-item active">
+                                            <li class="mega-menu-item">
                                                 <a href="#" class="mega-menu-link">Services</a>
                                                 <ul class="mega-submenu">
                                                     <li><a href="tourist_visa.html">Tourist Visa</a></li>
@@ -152,9 +152,8 @@
             </div>
             <!-- site-header-menu end-->
         </header><!-- header end -->
-
         <!-- page-title -->
-        <div class="jaz-titlebar-wrapper jaz-bg tour-img">
+        <div class="jaz-titlebar-wrapper jaz-bg">
             <div class="jaz-titlebar-wrapper-bg-layer jaz-bg-layer"></div>
             <div class="jaz-titlebar-wrapper-inner">
                 <div class="container">
@@ -162,7 +161,7 @@
                         <div class="col-lg-12">
                             <div class="jaz-page-title-row-heading">
                                 <div class="page-title-heading">
-                                    <h2 class="title">Tourist Visa</h2>
+                                    <h2 class="title">Enquiry Form</h2>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <i class="flaticon-home"></i>
@@ -170,9 +169,7 @@
                                         <a title="Homepage" href="index.html">Home</a>
                                     </span>
                                     <div class="jaz-sep"> - </div>
-                                    <span>Services</span>
-									<div class="jaz-sep"> - </div>
-                                    <span><a href="tourist_visa.html">Tourist Visa</a></span>
+                                    <span><a href="query.php">Enquiry Form</a></span>
                                 </div>
                             </div>
                         </div>
@@ -185,244 +182,103 @@
         <!--site-main start-->
         <div class="site-main">
 
-            <!-- about-section -->
-            <section class="jaz-row service02-about-section">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6 align-self-center ">
-                            <div class="bg-base-grey text-center text-lg-start res-991-pt-20">
-                                <div class="jaz_single_image-wrapper res-991-ml-20 res-991-mr-20">
-                                    <img class="img-fluid" src="images/tourist1.jpg" alt="Tourist">
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <div class="col-lg-6 align-self-center">
-                            <div class="pl-15 res-1199-pl-0 res-991-mt-30">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                    <h2 class="title">Travel to your Dream <span>Country</span> with <span> SSEIC</span> </h2>
-                                    </div>
-                                    <div class="title-desc">
-                                        <p>At Sure Success Education &amp; Immigration Consultant , we provide exceptional visa consulting services for tourists in various countries like Canada, Australia, Uk, USA and other European countries. Whether you are planning a vacation, a business trip, or an adventure abroad, our team of experienced consultants are here to assist you in obtaining the necessary visas to make your travel dreams a reality.</p>
-                                    </div>
-                                </div><!-- section title end -->                            
-                                <div class="row">
-                                    <div class="col-md-12 res-767-mb-30">
-                                        <div class="featured-icon-box icon-align-before-content icon-ver_align-top style7">
-                                            <div class="featured-icon">
-                                                <div class="jaz-icon jaz-icon_element-color-skincolor">
-                                                    <i class="flaticon-passport-8"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title">
-                                                    <h3>Visa Application Assistance</h3>
-                                                </div>
-                                                <div class="featured-desc">
-                                                    <p>Our consultants will guide you through the entire visa application process, ensuring that you have all the required documents and information to submit a successful application.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                   
-                                </div>
-                                
-                            </div>
-                        </div>
-						
-						<div class="row mt-40">
-						
-						<div class="col-md-6 res-767-mb-30">
-                                        <div class="featured-icon-box icon-align-before-content icon-ver_align-top style7">
-                                            <div class="featured-icon">
-                                                <div class="jaz-icon jaz-icon_element-color-skincolor">
-                                                    <i class="flaticon-process"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title">
-                                                    <h3>Document Verification</h3>
-                                                </div>
-                                                <div class="featured-desc">
-                                                    <p>We review your visa application documents and provide feedback to ensure accuracy and completeness, minimizing the risk of rejection or delays.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-						
-							<div class="col-md-6 res-767-mb-30">
-                                        <div class="featured-icon-box icon-align-before-content icon-ver_align-top style7">
-                                            <div class="featured-icon">
-                                                <div class="jaz-icon jaz-icon_element-color-skincolor">
-                                                    <i class="flaticon-instructor"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title">
-                                                    <h3>Interview Preparation</h3>
-                                                </div>
-                                                <div class="featured-desc">
-                                                    <p>Our team will provide you with valuable tips and guidance on how to prepare for your visa interview, helping you to confidently answer any questions that may be asked.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-						
-						<div class="col-md-6 res-767-mb-30 mt-40">
-                                        <div class="featured-icon-box icon-align-before-content icon-ver_align-top style7">
-                                            <div class="featured-icon">
-                                                <div class="jaz-icon jaz-icon_element-color-skincolor">
-                                                    <i class="flaticon-visa"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title">
-                                                    <h3>Visa Tracking</h3>
-                                                </div>
-                                                <div class="featured-desc">
-                                                    <p>We will keep you updated on its progress and provide any necessary assistance throughout the processing period.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-						
-							<div class="col-md-6 res-767-mb-30 mt-40">
-                                        <div class="featured-icon-box icon-align-before-content icon-ver_align-top style7">
-                                            <div class="featured-icon">
-                                                <div class="jaz-icon jaz-icon_element-color-skincolor">
-                                                    <i class="flaticon-debit-card"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title">
-                                                    <h3>Visa Fee Payment</h3>
-                                                </div>
-                                                <div class="featured-desc">
-                                                    <p>We assist in navigating the complex visa fee payment process, ensuring that all payments are made correctly and on time.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-							
-							
-						</div>
-						
-                    </div>
-                </div>
-            </section>
-            <!-- about-section-end -->
-
-          
-            <!-- testimonial-section -->
-            <section class="jaz-row padding_zero-section service02-testimonial-section clearfix">
+            <!-- contact-form-section -->
+            <section class="jaz-row padding_bottom_zero-section contact-us-contact-form-section clearfix">
                 <div class="container">
                     <div class="row g-0">
-                        <div class="col-lg-6 mb_80 res-991-mb-0">
-                            <div class="jaz-bg jaz-col-bgimage-yes jaz-col-bgcolor-yes jaz-left-span bg-base-dark spacing-2">
-                                <div class="jaz-col-wrapper-bg-layer jaz-bg-layer">
-                                    <div class="jaz-col-wrapper-bg-layer-inner"></div>
-                                </div>
-                                <div class="layer-content">
-                                    <!-- section title -->
-                                    <div class="section-title style2">
-                                        <div class="title-header">
-                                           
-                                            <h2 class="title">Why <span class="text-base-skin">Choose</span> Us?</h2>
-                                        </div>
-                                    </div><!-- section title end -->
-                                    <div class="row">
-                                                <div class="col-lg-12">
-                                                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style7 bg-color-white">
-                                                       
-														<h3>Few reason to choose our Tourist Visa Services</h3>
-														<ul>
-														<li>
-															<strong>Expertise:</strong> Our team of visa consultants have years of experience and are well-versed in the visa requirements of various countries. We stay up-to-date with the latest immigration regulations to provide accurate and reliable advice.
-															</li>
-															<br>
-															<li>
-															<strong>Efficiency:</strong> We strive to provide prompt and efficient service. With our assistance, you can avoid common pitfalls and spare yourself the frustration of dealing with complicated visa procedures.
-															</li>
-														    <br>
-															<li>
-															<strong>Personalized Service:</strong> We understand that each traveler's visa needs are unique. We offer personalized assistance tailored to your specific requirements, ensuring a hassle-free application process.
-															</li>
-															<li>
-															<strong>Customer Satisfaction:</strong> Our top priority is customer satisfaction. We are committed to going above and beyond to meet your visa needs and ensure a smooth travel experience.
-															</li>
-															
-														</ul>
-                                                       
-                                                    </div>
-                                                </div>
-                                               
-                                                
-                                            </div>
-                                </div>
-                            </div>
+                        <div class="col-lg-6">
+                          
+                            <img class="img-fluid" src="images/enquiry.jpg" alt="enquiry">
                         </div>
                         <div class="col-lg-6">
-                            <div class="col-bg-img-twenty-one jaz-bg jaz-col-bgimage-yes jaz-right-span">
-                                <div class="jaz-col-wrapper-bg-layer jaz-bg-layer"></div>
-                                <div class="layer-content"></div>
+                            <div class="bg-base-grey spacing-25">
+                                <!-- section title -->
+                                <div class="section-title style7">
+                                    <div class="title-header">
+                                        <h2 class="title">Know about<br>  immigration  &amp; Visa process <span>   Enquire Now</span></h2>
+                                    </div>
+                                </div><!-- section title end -->
+
+                                <?php
+                                    if (isset($_GET['status'])) {
+                                        if ($_GET['status'] === 'success') {
+                                            echo '<p style="color: green;">Thank you for your enquiry! We will get back to you </p>';
+                                        } elseif ($_GET['status'] === 'error') {
+                                            echo '<p style="color: red;">Sorry ! Something went wrong. Please try again later.</p>';
+                                        }
+                                    }
+                                 ?>
+                                <form action="queryform.php" class="contact_form clearfix" method="post">
+                                    <div class="row">
+                                        <div class="col-md-12">                  
+                                            <input name="name" type="text" name="name" value="" placeholder="Your Full Name" required="required">
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <input name="email" type="text" name="email" value="" placeholder="Email Address" required="required">
+                                        </div>
+										 <div class="col-md-6">
+                                            <input name="phone" type="text" name="phone" value="" placeholder="Contact No." required="required">
+                                        </div>
+                                
+                                        <div class="col-md-6">
+                                            <select id="selectbox1" placeholder="Enquiry Regarding" name="enquiry">
+                                                <option value="" disabled selected>Enquiry Regarding</option>
+                                                <option value="tourist_visa">Tourist Visa</option>
+                                                <option value="study_visa">Study Visa</option>
+                                                <option value="business">Business Visa</option>
+                                                <option value="pr">Permanent Resident</option>
+                                                <option value="services">Consultancy Services</option>
+                                                <option value="other">Other</option>
+                                            </select>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <select id="selectbox1" placeholder="Country Interested" name="country">
+                                                <option value="" disabled selected>Country Interested</option>
+                                                <option value="canada">Canada</option>
+                                                <option value="australia">Australia</option>
+                                                <option value="singapore">Singapore</option>
+                                                <option value="usa">USA</option>
+                                                <option value="uk">United Kingdom</option>
+                                                <option value="europe">Europe</option>
+                                            </select>
+                                        </div>
+										<div class="col-md-12">
+                                            <select id="selectbox1" placeholder="IELTS" name="ilets">
+                                                <option value="" disabled selected>Qualified IELTS Exam</option>
+                                                <option value="yes">Yes</option>
+                                                <option value="no">No</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <select id="selectbox1" placeholder="visa_refusal" name="refusal">
+                                                <option value="" disabled selected>Any VISA Refusal</option>
+                                                <option value="yes">Yes</option>
+                                                <option value="no">No</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- <div class="col-md-12">
+                                            <textarea name="message" rows="4" placeholder="Your Message" required="required"></textarea>
+                                        </div> -->
+                                        <div class="mt-5">
+                                            <button class="submit jaz-btn jaz-btn-size-md jaz-btn-shape-round jaz-btn-style-fill jaz-btn-color-skincolor" type="submit" value="submit">Submit Here</button> 
+                                       <br><br> </div>
+                                    </div>
+                                </form>
                             </div>
-                            <img class="img-fluid jaz-equal-height-image" src="images/tourist2.jpg" alt="Tourist">
-                        </div>
-                    </div>
+                        </div> 
+						
+					
+                    </div>	<br><br><br>
                 </div>
             </section>
-            <!-- testimonial-section-end -->
+            <!-- contact-form-section-end -->
 
-            <!-- inquiry-section -->
-            <section class="jaz-row padding_zero-section service02-inquiry-section bg-base-skin clearfix">
-                <div class="container">
-                    <div class="row jaz-vertical_sep">
-                        <div class="col-md-6">
-                            <div class="featured-icon-box style8">
-                                <div class="featured-icon">
-                                    <div class="jaz-icon">
-                                        <i class="flaticon-travel-agency"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h3>Contact a Representative</h3>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>We have helped students, business persons, tourists, clients with needs visas.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="featured-icon-box style8 pl-30 res-767-pl-0">
-                                <div class="featured-icon">
-                                    <div class="jaz-icon">
-                                        <i class="flaticon-call"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h3>Call Us Any Question ?</h3>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Besides, we also provide counseling services for immigration.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- inquiry-section-end -->
-
-          
         </div><!-- site-main end-->
 
-        
-        <!-- footer start -->
+       <!-- footer start -->
         <footer class="footer widget-footer clearfix">
             <div class="second-footer jaz-bgimage-yes bg-footer jaz-bg bg-base-dark">
                 <div class="jaz-row-wrapper-bg-layer jaz-bg-layer"></div>
@@ -529,36 +385,35 @@
             </div>
         </footer><!-- footer end -->
 
+    <!-- back-to-top start -->
+    <a id="totop" href="#top">
+        <i class="fa fa-angle-up"></i>
+    </a>
+    <!-- back-to-top end -->
 
-        <!-- back-to-top start -->
-        <a id="totop" href="#top">
-            <i class="fa fa-angle-up"></i>
-        </a>
-        <!-- back-to-top end -->
+</div><!-- page end -->
 
-    </div><!-- page end -->
+<!-- Javascript -->
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/jquery-migrate-3.3.2.min.js"></script>
+<script src="js/bootstrap.bundle.js"></script>
+<script src="js/aos.js"></script> 
+<script src="js/jquery-validate.js"></script> 
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/jquery-waypoints.js"></script>    
+<script src="js/numinate.min.js"></script>
+<script src="js/imagesloaded.min.js"></script>
+<script src="js/jquery-isotope.js"></script>
+<script src="js/jquery.twentytwenty.js"></script>
+<script src="js/circle-progress.min.js"></script>
+<script src="js/main.js"></script>
 
-    <!-- Javascript -->
-    <script src="js/jquery-3.6.0.min.js"></script>
-    <script src="js/jquery-migrate-3.3.2.min.js"></script>
-    <script src="js/bootstrap.bundle.js"></script>
-    <script src="js/aos.js"></script> 
-    <script src="js/jquery-validate.js"></script> 
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/jquery-waypoints.js"></script>    
-    <script src="js/numinate.min.js"></script>
-    <script src="js/imagesloaded.min.js"></script>
-    <script src="js/jquery-isotope.js"></script>
-    <script src="js/jquery.twentytwenty.js"></script>
-    <script src="js/circle-progress.min.js"></script>
-    <script src="js/main.js"></script>
-
-    <!-- Revolution Slider -->    
-    <script src='revolution/js/revolution.tools.min.js'></script>
-    <script src='revolution/js/rs6.min.js'></script>
-    <script src="revolution/js/slider.js"></script>
-    <!-- Javascript end-->
+<!-- Revolution Slider -->    
+<script src='revolution/js/revolution.tools.min.js'></script>
+<script src='revolution/js/rs6.min.js'></script>
+<script src="revolution/js/slider.js"></script>
+<!-- Javascript end-->
 
 </body>
 </html>

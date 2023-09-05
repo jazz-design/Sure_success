@@ -92,8 +92,8 @@
                                     <!-- menu -->
                                     <nav class="main-menu menu-mobile" id="menu">
                                         <ul class="menu">
-                                            <li class="mega-menu-item active">
-                                                <a href="#">Home</a>
+                                            <li class="mega-menu-item">
+                                                <a href="index.html">Home</a>
                                                
                                             </li>
                                             <li class="mega-menu-item">
@@ -106,7 +106,7 @@
                                                      </ul>
                                             </li>
                                             <li class="mega-menu-item">
-                                                <a href="#" class="mega-menu-link">Study Abroad</a>
+                                                <a href="study_visa.html" class="mega-menu-link">Study Abroad</a>
                                                 <ul class="mega-submenu">
                                                     <li><a href="canada.html">Canada</a></li>
                                                     <li><a href="australia.html">Australia</a></li>
@@ -130,8 +130,8 @@
                                               <li class="mega-menu-item">
                                                 <a href="gallery.html">Gallery</a>
                                             </li>
-                                            <li class="mega-menu-item">
-                                                <a href="contact-us.html">Contact us</a>
+                                            <li class="mega-menu-item active">
+                                                <a href="contact-us.php">Contact us</a>
                                             </li>
                                         </ul>
                                     </nav><!-- menu end -->
@@ -139,7 +139,7 @@
                                     <div class="header_extra d-flex flex-row align-items-center justify-content-end">
                                         
                                         <div class="header_btn">
-                                            <a class="jaz-btn jaz-btn-size-sm jaz-btn-shape-round jaz-btn-style-fill jaz-btn-color-skincolor" href="query.html">Enquire Now</a>
+                                            <a class="jaz-btn jaz-btn-size-sm jaz-btn-shape-round jaz-btn-style-fill jaz-btn-color-skincolor" href="query.php">Enquire Now</a>
                                         </div>
                                     </div><!-- header_extra end -->
                                 </div><!-- site-navigation end-->
@@ -168,7 +168,7 @@
                                         <a title="Homepage" href="index.html">Home</a>
                                     </span>
                                     <div class="jaz-sep"> - </div>
-                                    <span>Contact Us</span>
+                                    <span><a href="contact-us.php">Contact Us</a></span>
                                 </div>
                             </div>
                         </div>
@@ -221,10 +221,10 @@
                                         </div>
                                         <div class="col-md-12">
                                             <select id="selectbox" name="option">
-                                                <option value="sa">Study Abroad</option>
-                                                <option value="tv">Tourist Visa</option>
-                                                <option value="cs">Consultancy Services</option>
-                                                <option value="other">Other</option>
+                                                <option value="Study Abroad">Study Abroad</option>
+                                                <option value="Toursit Visa">Tourist Visa</option>
+                                                <option value="Consultancy Services">Consultancy Services</option>
+                                                <option value="Other">Other</option>
                                             </select>
                                         </div>
                                         <div class="col-md-12">
@@ -327,7 +327,7 @@
 
         </div><!-- site-main end-->
 
-            <!-- footer start -->
+        <!-- footer start -->
         <footer class="footer widget-footer clearfix">
             <div class="second-footer jaz-bgimage-yes bg-footer jaz-bg bg-base-dark">
                 <div class="jaz-row-wrapper-bg-layer jaz-bg-layer"></div>
@@ -341,28 +341,40 @@
                                     </div>
                                     <ul class="menu-footer-quick-links">
                     
-                                        <li><a href="about_sseic.html"><i class="fa fa-plus"></i>About SSIEC</a></li>
-                                        <li><a href="tourist_visa.html"><i class="fa fa-plus"></i>Tourist Visa</a></li>
-                                        <li><a href="success_stories.html"><i class="fa fa-plus"></i>Success Story</a></li>
-                                        <li class="last-link"><a href="consultancy_services.html"><i class="fa fa-plus"></i>Consultancy </a></li>
-                                        <li class="last-link"><a href="gallery.html"><i class="fa fa-plus"></i>Gallery</a></li>
+                                        
+                                        
+                                        <li class="last-link"><a href="canada.html"><i class="fa fa-plus"></i>Study in Canada</a></li>
+										<li class="last-link"><a href="about_sseic.html"><i class="fa fa-plus"></i>About SSIEC</a></li>
+										
+										 <li class="last-link"><a href="australia.html"><i class="fa fa-plus"></i>Study in Australia</a></li>
+										 <li class="last-link"><a href="tourist_visa.html"><i class="fa fa-plus"></i>Tourist Visa</a></li>
+										
+										 <li class="last-link"><a href="singapore.html"><i class="fa fa-plus"></i>Study in Singapore</a></li>
+										<li class="last-link"><a href="consultancy_services.html"><i class="fa fa-plus"></i>Passport Services</a></li>
+										
+										 <li class="last-link"><a href="uk.html"><i class="fa fa-plus"></i>Study in UK</a></li>
+										<li class="last-link"><a href="success_stories.html"><i class="fa fa-plus"></i>Success Stories</a></li>
+									   
+										<li class="last-link"><a href="usa.html"><i class="fa fa-plus"></i>Study in USA</a></li>
+										<li class="last-link"><a href="gallery.html"><i class="fa fa-plus"></i>Gallery</a></li>
+                                       
+										
+                                        
                                     </ul>
                                 </div>
                                 <div class="widget_social">
                                     <div class="social-icons social-hover">
                                         <ul class="social-icons d-flex">
                                             <li>
-                                                <a class="jaz-social-instagram" href="https://www.instagram.com/theme_tech_mount/" aria-label="instagram"><i class="icon-instagram"></i></a>
+                                                <a class="jaz-social-instagram" href="https://www.instagram.com/suresuccess_immigration/" aria-label="instagram"  target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
                                             <li>
-                                                <a class="jaz-social-facebook" href="https://www.facebook.com/suresuccesseducationimmigration/" rel="noopener" aria-label="facebook"><i class="icon-facebook"></i></a>
+                                                <a class="jaz-social-facebook" href="https://www.facebook.com/suresuccesseducationimmigration/" rel="noopener" aria-label="facebook" target="_blank"><i class="icon-facebook"></i></a>
                                             </li>
-                                            <!-- <li>
-                                                <a class="jaz-social-twitter" href="https://twitter.com/themetechmount" rel="noopener" aria-label="twitter"><i class="icon-twitter"></i></a>
-                                            </li> -->
+                                           
                                             
                                             <li>
-                                                <a class="jaz-social-linkedin" href="https://www.linkedin.com/company/sure-success-education-immigration-consultants/" rel="noopener" aria-label="google"><i class="icon-linkedin"></i></a>
+                                                <a class="jaz-social-linkedin" href="https://www.linkedin.com/company/sure-success-education-immigration-consultants/" rel="noopener" aria-label="linkedin"  target="_blank"><i class="icon-linkedin"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -378,10 +390,10 @@
                                     <p style="padding-right:60px">Sure Success Education &amp; Immigration Consultant is a reputable and well established company in the field of study abroad and Other immigration services.</p>
                                     <div class="jaz-advertiser">
                                         <a href="australia.html"><img src="images/flag-1.png" alt="australia"></a>
-                                        <a href="uk.html"><img src="images/flag-2.png" alt="united-kingdom"></a>
-                                        <a href="usa.html"><img src="images/flag-3.png" alt="usa"></a>
+                                        <a href="usa.html"><img src="images/flag-2.png" alt="united-States"></a>
+                                        <a href="canada.html"><img src="images/flag-3.png" alt="Canada"></a>
                                         <a href="singapore.html"><img src="images/flag-4.png" alt="singapore"></a>
-                                        <a href="canada.html"><img src="images/flag-4.png" alt="canada"></a>
+                                        <a href="uk.html"><img src="images/flag-5.png" alt="United-Kingdom"></a>
                                     </div>
                                                      </div>
                             </div>
@@ -422,35 +434,36 @@
             </div>
         </footer><!-- footer end -->
 
-        <!-- back-to-top start -->
-        <a id="totop" href="#top">
-            <i class="fa fa-angle-up"></i>
-        </a>
-        <!-- back-to-top end -->
 
-    </div><!-- page end -->
+    <!-- back-to-top start -->
+    <a id="totop" href="#top">
+        <i class="fa fa-angle-up"></i>
+    </a>
+    <!-- back-to-top end -->
 
-    <!-- Javascript -->
-    <script src="js/jquery-3.6.0.min.js"></script>
-    <script src="js/jquery-migrate-3.3.2.min.js"></script>
-    <script src="js/bootstrap.bundle.js"></script>
-    <script src="js/aos.js"></script> 
-    <script src="js/jquery-validate.js"></script> 
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/jquery-waypoints.js"></script>    
-    <script src="js/numinate.min.js"></script>
-    <script src="js/imagesloaded.min.js"></script>
-    <script src="js/jquery-isotope.js"></script>
-    <script src="js/jquery.twentytwenty.js"></script>
-    <script src="js/circle-progress.min.js"></script>
-    <script src="js/main.js"></script>
+</div><!-- page end -->
 
-    <!-- Revolution Slider -->    
-    <script src='revolution/js/revolution.tools.min.js'></script>
-    <script src='revolution/js/rs6.min.js'></script>
-    <script src="revolution/js/slider.js"></script>
-    <!-- Javascript end-->
+<!-- Javascript -->
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/jquery-migrate-3.3.2.min.js"></script>
+<script src="js/bootstrap.bundle.js"></script>
+<script src="js/aos.js"></script> 
+<script src="js/jquery-validate.js"></script> 
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/jquery-waypoints.js"></script>    
+<script src="js/numinate.min.js"></script>
+<script src="js/imagesloaded.min.js"></script>
+<script src="js/jquery-isotope.js"></script>
+<script src="js/jquery.twentytwenty.js"></script>
+<script src="js/circle-progress.min.js"></script>
+<script src="js/main.js"></script>
+
+<!-- Revolution Slider -->    
+<script src='revolution/js/revolution.tools.min.js'></script>
+<script src='revolution/js/rs6.min.js'></script>
+<script src="revolution/js/slider.js"></script>
+<!-- Javascript end-->
 
 </body>
 </html>

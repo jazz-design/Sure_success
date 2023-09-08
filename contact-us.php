@@ -106,7 +106,7 @@
                                                      </ul>
                                             </li>
                                             <li class="mega-menu-item">
-                                                <a href="study_visa.html" class="mega-menu-link">Study Abroad</a>
+                                                <a href="#" class="mega-menu-link">Study Abroad</a>
                                                 <ul class="mega-submenu">
                                                     <li><a href="canada.html">Canada</a></li>
                                                     <li><a href="australia.html">Australia</a></li>
@@ -203,13 +203,14 @@
 
                                 <?php
                                     if (isset($_GET['status'])) {
-                                        if ($_GET['status'] === 'success') {
-                                            echo '<p style="color: green;">Thank you for contacting us! Will contact you soon</p>';
-                                        } elseif ($_GET['status'] === 'error') {
-                                            echo '<p style="color: red;">Oops! Something went wrong. Please try again later.</p>';
+                                        if ($_GET['status'] == 'success') {
+                                            echo '<div style="color: green; font-weight: normal;">Your message has been sent successfully!</div>';
+                                        } elseif ($_GET['status'] == 'error') {
+                                            echo '<div style="color: red; font-weight: normal;">Oops! Something went wrong. Please try again.</div>';
                                         }
                                     }
-                                 ?>
+                                    ?>
+
                                 <form action="contact.php" class="contact_form clearfix" method="post">
                                     <div class="row">
                                         <div class="col-md-12">                  

@@ -2624,3 +2624,11 @@ section.error-404 .jaz-404-img { margin-bottom: 35px; }
     line-height: 26px;
     margin-top: 15px;
 }
+
+/*added a css by H*/
+
+@media (max-width: 768px) {
+    .header_btn {
+        display: block !important;
+    }
+}

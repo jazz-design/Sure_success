@@ -191,7 +191,7 @@
                                 <div class="jaz-col-wrapper-bg-layer jaz-bg-layer"></div>
                                 <div class="layer-content"></div>                           
                             </div>
-                            <img class="img-fluid jaz-equal-height-image" src="images/bg-image/col-bgimage-37.png" alt="col-bgimage-37">
+                            <img class="img-fluid jaz-equal-height-image" src="images/contact.jpg" alt="Contact_Us">
                         </div>
                         <div class="col-lg-6">
                             <div class="bg-base-grey spacing-25">

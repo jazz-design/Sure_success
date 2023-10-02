@@ -277,7 +277,7 @@
                                         <h3>Email</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <a href="mailto:suresuccessgroup@gmail.com">suresuccessgroup@gmail.com</a>
+                                        <a href="mailto:suresuccessquery@gmail.com">suresuccessquery@gmail.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -368,7 +368,7 @@
                                     <div class="social-icons social-hover">
                                         <ul class="social-icons d-flex">
                                             <li>
-                                                <a class="jaz-social-instagram" href="https://www.instagram.com/suresuccess_immigration/" aria-label="instagram"  target="_blank"><i class="icon-instagram"></i></a>
+                                                <a class="jaz-social-instagram" href="https://www.instagram.com/sseic.in/?igshid=NzZlODBkYWE4Ng%3D%3D" aria-label="instagram"  target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
                                             <li>
                                                 <a class="jaz-social-facebook" href="https://www.facebook.com/suresuccesseducationimmigration/" rel="noopener" aria-label="facebook" target="_blank"><i class="icon-facebook"></i></a>
@@ -412,7 +412,7 @@
 										  SCO-141, First Floor, Sector 40C, Chandigarh</p>
                                         <p><span> <strong><i class="flaticon-phone-call"></i></span>&nbsp;&nbsp;
 											<a href="tel:+9108427270700">+91-084272-70700</a></strong></p>
-                                        <p><span> <strong><i class="flaticon-email-1"></i></span>&nbsp;&nbsp;<a href="mailto:suresuccessgroup@gmail.com">suresuccessgroup@gmail.com</a></strong></p>
+                                        <p><span> <strong><i class="flaticon-email-1"></i></span>&nbsp;&nbsp;<a href="mailto:suresuccessquery@gmail.com">suresuccessquery@gmail.com</a></strong></p>
                                        
                                     </div>                                        
                                 </div>
